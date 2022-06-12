@@ -1,1 +1,1 @@
-print('Hello World for JenkinSs')
+print('Hello World')
